@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NavigationComponents</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="primer_fragment">Primer Fragment</string>
+    <string name="ir_fragment_2">Ir fragment 2</string>
 </resources>
